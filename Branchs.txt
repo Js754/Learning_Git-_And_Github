@@ -1,0 +1,7 @@
+Branchs - Git:
+
+Branchs São Como Uma Espécie de Divisões Do Git, Se Duas Ou Mais Pessoas Estiverem Trabalhando No Mesmo Projeto, Essas Pessoas Podem Desenvolver As Partes Do Projeto Individualmente e Juntar As Partes Desenvolvidas Posteriormente.
+
+Juntar As Partes Do Projeto Via Git:
+
+git merge <branchname> 
