@@ -1,0 +1,19 @@
+Principais Comandos Do Git:
+
+git init - Iniciar Um Repositorio Vazio.
+
+git add <archivename> or <.> - Adiciona Um Arquivo Para a áre De Pre-Commit.
+
+git commit - Commita(Manda) O Arquivo Para o Seu Repositório Local
+
+git log - Para Ver As Ultimas Alteraçoes Feitas Em Formato de Log.
+
+git diff - Para ver As Diferenças Entre Os Arquivos Editados e Não Editados Do Seu repositório.
+
+git checkout - Para Dar Um Switch(Mudar) De Branch Caso Exista Mais De Uma Criada.
+
+git Branch <branchName> - Cria Uma Branch ( Sub Divisao Do Git Para Trabalhar Separadamente ).
+
+git checkout -b <branchname> - cria uma Branch e Muda Automaticamente Pra Ela.
+
+git checkout -d <branchname> - Deleta Uma Branch (Necessita De Confirmação.)
