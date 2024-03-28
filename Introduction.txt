@@ -1,0 +1,3 @@
+Essa é Uma Introduçao Aos Conhecimentos De Git e Github Aprendidos Por Mim - Js754.
+
+Os Comandos Do Git Se Resumem A Um Terminal Que São Executados Os Comandos Do Git Em Total comunicação Com o Github Posteriormente. 
