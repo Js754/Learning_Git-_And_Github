@@ -1,0 +1,7 @@
+Windows:
+
+Instalar O Programa Git, Fazer as Configuracoes Necessarias Para Rodar Normalmente e Rodar Os Primeiros Comandos Git.
+
+Linux e Outras Versoes:
+
+Em Algumas Versoes, O Proprio GIT já Vem Instalado de Fábrica, Sem Necessidade de instalação.
