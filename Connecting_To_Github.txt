@@ -1,0 +1,8 @@
+Conectando ao Github:
+
+Podemos Conectar O Nosso Repositório Local através do Git.
+
+Precisamos de Um Repositório Em Branco Para fazer as Posteriores Mudanças. 
+O Github Irá Disponibilizar Um Link Para Conexão Com o Repositório, A Conexão Com o Mesmo Ocorrerá Com O Comando: git remote add origin <link>
+
+Ao Se Autenticar com o Token (Gere Um Nas Configs. do Desenvolvedor) O Repositorio Estará "Conectado" Ao Git Remotamente. 
